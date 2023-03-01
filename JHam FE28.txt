@@ -1,0 +1,529 @@
+
+please write a summary of the attached in the style and voice of a washington post writer.  At the end of I would like to know if I should consider John Hammer a complainer or a valued team member.  Also tell me what grade level john writes at. 
+TYPICALLY:
+1/2 race length
+full fuel load
+limit pit stops to 5
+no fast repairs.... drive what you wrecked.... lol
+
+ALLSTAR RACE IS DIFFERENT:
+Date: Saturday, May 18
+Qualify: 9:30 PM EDT
+Meeting: 9:35 PM EDT
+Race: 9:40 PM EDT
+Track: Charlotte Motor SuperSpeedway
+Length: (2) 50 Lap Segments with an intermission
+Practice: 6:00 PM EDT (and a thursday hosted starting at 8pm)
+FUEL: 42%
+EDIT: FUEL LOAD ADJUSTED TO 42% ELIMINATES 3RD PIT STOP.
+Pitstops Allowed: unlimited (AllStar only, typically limited to 5)
+
+Session Name: Fine Line Racing - TwinFifteez All-Star Race
+Race Rules: iRacing rules no champ points incidents DO COUNT
+FLR Paint Schemes: Use the Trading Paints Downloader to automatically update paints
+
+**************************
+
+The Fine Line Racing Impala A series runs THE ALL-STAR RACE!!! Charlotte plays host to the Twin Fifteez ALLSTAR Race Saturday with unlimited pit stops. (2) 50 Lap Segments, 42% Fuel load and one other element of surprise.
+
+This is NOT the official iRacing track this week so get on thursday night around 8pm for a hosted practice. FLR drivers are on most nights, but Thursday evening will be a great chance to jump on teamspeak and get help with a setup.
+
+All drivers are asked to leave the in game voice client on during the race in order to hear admin calls. Please do not mute your chat during race so you can hear these.
+
+Teamspeak is always running and you are welcome to join it anytime to say hi or ask questions. On race night, Hammer won't be on until 9pm but typically others are on teamspeak by long before to answer any questions or discuss the upcoming race, share setup tips, etc.
+
+Don't miss it Saturday!
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » TwinFifteez AllStar Race sat. night 9:30eastern » Go to message	5/15/2013 5:52 a.m.
+www.finelineracing.net if you're interested in joining an A league come try out a short race this Saturday, PM me.
+
+TYPICALLY:
+1/2 race length
+full fuel load
+limit pit stops to 5
+no fast repairs.... drive what you wrecked.... lol
+
+ALLSTAR RACE IS DIFFERENT:
+Date: Saturday, May 18
+Qualify: 9:30 PM EDT
+Meeting: 9:35 PM EDT
+Race: 9:40 PM EDT
+Track: Charlotte Motor SuperSpeedway
+Length: (2) 50 Lap Segments with an intermission
+Practice: 6:30 PM EDT (and a thursday hosted starting at 8pm)
+FUEL: 30%
+
+Pitstops Allowed: unlimited (AllStar only, typically limited to 5)
+
+Session Name: Fine Line Racing - TwinFifteez All-Star Race
+Race Rules: iRacing rules no champ points incidents DO COUNT
+FLR Paint Schemes: Use the Trading Paints Downloader to automatically update paints
+
+**************************
+
+The Fine Line Racing Impala A series runs THE ALL-STAR RACE!!! Charlotte plays host to the Twin Fifteez ALLSTAR Race Saturday with unlimited pit stops. (2) 50 Lap Segments, 30% Fuel load and one other element of surprise.
+
+This is NOT the official iRacing track this week so get on thursday night around 8pm for a hosted practice. FLR drivers are on most nights, but Thursday evening will be a great chance to jump on teamspeak and get help with a setup.
+
+All drivers are asked to leave the in game voice client on during the race in order to hear admin calls. Please do not mute your chat during race so you can hear these.
+
+Teamspeak is always running and you are welcome to join it anytime to say hi or ask questions. On race night, Hammer won't be on until 9pm but typically others are on teamspeak long before to answer any questions or discuss the upcoming race, share setup tips, etc.
+
+Don't miss it Saturday!
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » Looking for A Class Team » Go to message	5/15/2013 5:33 a.m.
+Matt Spangler wrote:
+Looking for a strictly A Class team to be able to run with this and upcoming seasons. I have done a few A class seasons and finished in the top 30 in points last season.
+
+4900 iRating.
+
+I primary build all of the sets that I race with and believe that I can help a good team.
+
+PM me if your team is interested.
+
+
+
+www.finelineracing.net it's a league but we do work together. noxqses racing has some talent as well, contact derek gleason.
+
+we race the a car every sat night, 9:30est.
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » Looking for A Class team » Go to message	5/13/2013 7:10 p.m.
+www.finelineracing.com we run 1/2 the real race, q time 9:30 eastern 9:45.... great group of guys 15 cars min typically. we had 14 at darlington lol!!
+OSX-MAC »  [TestCase] Connect Various Wheels and Pedals » Go to message	5/13/2013 6:15 a.m.
+Ed, your shifter works because you have a usb adapter right?
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » Fixing the terrible racing » Go to message	5/12/2013 6:13 p.m.
+Scott Bolster wrote:
+
+
+But I haven't found a league that runs the Gen6 open setups that gets more than ten drivers per race.
+
+
+www.finelineracing.net
+
+AT DARLINGTON LAST NIGHT, OF ALL PLACES WE HAD 14 STARTERS.... it's a great group, best move i ever made come check it out. we run sat nights est 9:30Q
+
+all the races are 1/2 the actual event length.
+OSX-MAC »  [TestCase] User Installs App And Launches It » Go to message	5/12/2013 6:01 p.m.
+agree with ed and ben on wheel/shifter/pedal issue but i don't have the graphics problems at least in spectating.
+OSX-MAC »  [TestCase] User Joins Spectator Session » Go to message	5/12/2013 5:58 p.m.
+i had no problems with spectating. i watched 180+ laps and ran the battery on macbook pro DEAD lol.
+OSX-MAC »  [TestCase] Connect Various Wheels and Pedals » Go to message	5/12/2013 5:57 p.m.
+g27 issue as noted, need usb adapters for shifter and pedals, wheel did calibrate......
+OSX-MAC » It's just windows in a box.... » Go to message	5/12/2013 5:55 p.m.
+on my macbook pro, i am getting the same fps with the same graphics settings i get in windows. i use setting 4, then i set car detail to high or medium, turn off event and turn on vertex shaders to get damage on. also, no crowd and i get 83fps dips into 70's at times..... i watched a 183 lap hosted session one of my league buddies ran and it ran fan the entire time so i'm not sure if the emulator is a problem in and of itself. However, i agree that it would likely perform better if it used the o.s. inherently.
+OSX-MAC » can't use gen 6 if you don't have both cars » Go to message	5/11/2013 11:47 a.m.
+the problem is resolved somehow today i downloaded the "required update" which is the ford and it installed and seems fine now.... you can close this now.
+OSX-MAC »  what type of mac are you using? » Go to message	5/11/2013 10:43 a.m.
+i know but this is a much shorter and quicker way i think to summarize what we have, feel to delete the forum if you want just an idea.
+OSX-MAC » G27 Isn't compatible with Mac OSX » Go to message	5/11/2013 10:42 a.m.
+my cd of drivers says osx is not supported, so i don't even have the drivers thats the problem, i tried the logitec osx software but it won't detect the wheel or pedals.
+
+it did download the software as mentioned elsewhere, it's also as predicted did not detect my device.... the sim was able to calibrate my gas and brake pedal BUT NOT THE CLUTCH. It also did not find my h-pattern shifter....
+OSX-MAC » Bootcamp Windows vs MAC performace » Go to message	5/11/2013 8:27 a.m.
+make sure you have your energy saver settings in system preference set to performance so that you are using the 9600m instead of the 9400m 
+OSX-MAC »  what type of mac are you using? » Go to message	5/11/2013 8:19 a.m.
+I've got a 2009 mbp (newer version) with the 9600M card (it's also a 9400 when it's not set to performance)
+
+i've been racing on boot camp, windows 7 32bit since i started iracing in 2011
+OSX-MAC » setting mbp to use the 9600gm instead of 9400 » Go to message	5/11/2013 8:15 a.m.
+http://cnettv.cnet.com/switch-graphics-cards-macbook-pro/9742-1_53-50004367.html
+
+goto system preferences, choose energy saver, click on graphics and chose high performance, logout and login.... now you are using the better card.
+
+bootcamp uses the 9600gmt by default and maybe why performance seems better on the pc side....
+OSX-MAC » G27 Isn't compatible with Mac OSX » Go to message	5/11/2013 8:11 a.m.
+it won't detect the g27 pedals or the h pattern shifter unless you have them connected directly via usb.... thats my immediate problem and it's $70 for the two adapters from here http://www.leobodnar.com/shop/index.php?main_page=product_info&cPath=71&products_id=187
+
+bummer.
+OSX-MAC »  [TestCase] User Installs App And Launches It » Go to message	5/11/2013 7:28 a.m.
+partial install because the siim doesn't realize i don't need the ford to run the ss in the a series, this is fixed on the pc side. otherwise, minus the logitech problem it installed and i could see cars and scenery etc in a practice room
+
+EDIT GOOD NEWS!!!! THIS IS HOW YOU MAKE YOUR G27 WORK WITH IRACING!!!!
+
+http://www.leobodnar.com/shop/index.php?main_page=product_info&cPath=72&products_id=188
+
+PURCHASE THE SHIFTER ADAPTER
+PURCHASE THE PEDAL WIRE
+
+Those as it's states, makes your shifter and pedals inherently recognized by OSX sweeeeet!!!!!! this puts me out of testing though unless iracing wants to pay for those adapters 
+OSX-MAC » can't use gen 6 if you don't have both cars » Go to message	5/10/2013 7:39 p.m.
+I did all the updates, tried to download the fushion but it errors out.... i don't OWN the fusion and i believe that is why it errors out on verification after the download.... gotta fix that but everything else is working minus the logitech fail
+OSX-MAC » Summary of OS X Testing to date » Go to message	5/10/2013 6:59 p.m.
+I do have bootcamp installed and run iracing from it, primarily.... the logitech support of the g27 wheel to me is a major hurdle although i suspect you've had bigger issues  i need some directions on how to negotiate around the logitech snaffooo
+
+EDIT GOOD NEWS!!!! THIS IS HOW YOU MAKE YOUR G27 WORK WITH IRACING!!!!
+
+http://www.leobodnar.com/shop/index.php?main_page=..._info&cPath=72&products_id=188
+
+PURCHASE THE SHIFTER ADAPTER
+PURCHASE THE PEDAL WIRE
+
+looking for an iracing $70 donation.... maybe to offset for testing 
+OSX-MAC » G27 Isn't compatible with Mac OSX » Go to message	5/10/2013 6:56 p.m.
+Houston.... we've got A MAJOR PROBLEM.... Logitech G27 isn't supported on mac osx, how do you work around THAT? Darn it, i can't even test it. 
+
+iracing wouldn't detect my g27 clutch or reverse so i'm kinda toast at the moment. i have driving force GT but.... nah.
+Private League & Hosted Racing » finelineracing.net Friday Night B - Saturday Night A » Go to message	5/5/2013 8:42 p.m.
+half of the normal races - friendly, competitive, best move i ever made.
+
+www.finelineracing.net
+Private League & Hosted Racing » Looking for a league » Go to message	5/5/2013 8:40 p.m.
+www.finelineracing.net B series is friday night, A cup car is Saturday night, good group, highly competitive 20+ drivers each week lots of fun best move i ever made, put an end to open series drama and race in a league.
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » Fixing the terrible racing » Go to message	5/5/2013 8:34 p.m.
+Gary Shenk wrote:
+I agree with the "loss of respect in races" complaints in this thread; It is terrible lately.
+.....
+The best way I found to avoid the headache is join a good league. It's more like real racing anyhow. You race the same guys every week. You know who to trust and who to stay away from. You know who to race hard and who to occasionally put in the wall. You have good moderators who keep racers in line or they get booted from the race or the league. I am enjoying myself again.
+
+
+
+
+saved me from typing a lot.
+NASCAR xFinity Chevy Camaro, Ford Mustang & Toyota Supra » COT league wanted » Go to messagB car impala.
+Problem Reporting » impossible to recreate iracing basic setups » Go to message	1/26/2013 2:45 p.m.
+I took all of the exact settings from the homestead basic and tried to modify one of my sets from last season and the cross weight is off by almost 20%...
+
+i tried it 3 times on 2 different setups from last year..... same result.
+
+explanation please......
+
+thank you.
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » Fine Line Impala A series » Go to message	1/26/2013 7:16 a.m.
+It's a great league, best decision I've made on iracing.
+Private League & Hosted Racing » Fine Line Impala A series » Go to message	1/26/2013 7:15 a.m.
+I'll be there.
+NASCAR xFinity Chevy Camaro, Ford Mustang & Toyota Supra » Send iRacing your Regards to schedule if you disagree » Go to message	1/20/2013 5:03 p.m.
+sent mine, hey short races are fine but double the tire wear and cut the fuel load in half.... how hard is it. for leagues the tire wear and fuel should remain.
+NASCAR xFinity Chevy Camaro, Ford Mustang & Toyota Supra » So whats the reasoning behind the new schedule? » Go to message	1/20/2013 5:02 p.m.
+Steve Chester2 wrote:
+takes only a few seconds to shoot an email to support@iracing.com to voice your concerns.
+
+email sent...
+my suggestion, cut the fuel capacity in half, double the tire wear for open races but for leagues leave it as is so that you can race longer races legitimately.
+
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » Shocks » Go to message	12/9/2012 2:17 p.m.
+Blake Coppo wrote:
+Jared Crawford wrote:
+Shocks.
+
+
+
+
+
+
+Is that normal?
+
+a lot of guys are seeing the same... left front lift.
+Complaints Department » absolutely unacceptable » Go to message	11/1/2012 7:48 p.m.
+congratulations of putting an unproven update, get some beta testers on board instead of using the entire audience and looking like fools.... you do look like fools. It's one thing to have problems, it's another to notify nobody about them, except for the problem forum.... classic.
+
+I respect what you all do with this program, but why not wait and get it right, this embarrassing.
+Problem Reporting » Loading errors 71 and 72 » Go to message	11/1/2012 7:45 p.m.
+totally unacceptable, what kind of software company puts out a deployment this flawed, i'll just throw away that 100+ iracing points, no problem. Usually when you do updates, you don't go looking in the problem forum to resolve errors, you expect the software developer to POST THE KNOWN PROBLEM IN A MORE OBVIOUS PLACE.
+Telemetry Discussion » weird wave frequencies in graph - wheels/pedals? » Go to message	10/23/2012 6:43 p.m.
+alll of my telemetry looks like that super squigglly one.... i don't know what that means though... pedals computer??
+
+it has to be something to do with my computer or equipment because all of his look nice and smooth all of mine are crazy.
+Telemetry Discussion » Telemetry Related Reading » Go to message	10/23/2012 3:50 p.m.
+Christopher McDevitt wrote:
+Pretty concise and useful magazine excerpt by Peter Krause: Deciphering Data
+
+that link is broken, fyi 
+Telemetry Discussion » weird wave frequencies in graph - wheels/pedals? » Go to message	10/23/2012 3:45 p.m.
+same setups, same track, 2 different people.
+
+can anyone explain why mine (the jittery one) is so jittery, do i have a hardware issue or something?
+NASCAR xFinity Chevy Camaro, Ford Mustang & Toyota Supra » Axle/Truck arm assembly preload does ?? » Go to message	10/23/2012 3:27 p.m.
+Mark A Carpenter wrote:
+I don't know if this will help anyone else still struggling, but this is why a front ARB increases understeer, while a rear ARB (and the TA assembly) increases oversteer. The front ARB increases wedge by loading up the RF and LR. A rear ARB decreases wedge by loading up the LF and RR.
+
+If you preload a bar, or the TA assembly, with negative preload, you are twisting the chassis in the opposite direction that the chassis will roll in a left hand turn. This basically engages the bar early, so that it is already working the way it would in the corner even while the car is sitting still, as that's the bars' job, to resist roll and push the chassis back in the opposite direction of roll.
+
+If you put positive load in the bar or TAA, you are rolling the chassis in the *same* direction as roll in a turn. I haven't seen a good reason for doing this yet. There may be one, but I'm just not aware of it. (I'd love to be enlightened if there is.) The whole idea of an ARB is to resist roll. Once that positive preload is matched by the forces in the turn, the bar then starts to resist roll, the way it normally does.
+
+Think of preload as a person standing on either side of the car, pushing on the roof rail and trying to roll the car, but they can't move once they get set. If they are on the right side (negative preload), there is already resistance to roll. Any pushing they do is just a head start to what the bar normally does. If the person is on the left side (positive preload), they are trying to roll the car to the right. As the car enters the turn, that little bit of roll that the person is adding will be gone once the car reaches the point in the turn where it would normally lean that much. Then the car pulls away from the person (as they can't move), and at this point, the bar then starts to resist roll.
+
+
+
+there is a reason for inducing roll by adding positive load on the front ARB, you can reduce slop in the rolling by inducing the roll with positive load on the front arb.... this works very well with a small dia bar. basically it enduces roll, and makes you looser on entry, but takes the slop out of the middle and exit because you're inducing roll sooner, therefore reaching the limit sooner. you can use it as a way to control body roll.
+NASCAR xFinity Chevy Camaro, Ford Mustang & Toyota Supra » Lag Switchers » Go to message	8/25/2012 10:36 a.m.
+Neil J Bontempi wrote:
+Brad Mahar wrote:
+I've seen the lag draft come into effect, but I don't believe it's because of "lag switches". The servers are so god awful lately that people that normally don't blink, blink.
+
+However, I can do 203 pretty easily with my set with no lag draft. So to say getting above 200 isn't right is a lie.
+
+
+
+Would it be out of line if i asked how much tape your using? I'm using minimal. Thanks
+
+I ran FULL TAPE, by the way.
+NASCAR xFinity Chevy Camaro, Ford Mustang & Toyota Supra » Lag Switchers » Go to message	8/25/2012 9:29 a.m.
+I don't see any comments suggesting that everyone going fast is cheating. I see comments that specific people are cheating and there is video to support the questioning.
+NASCAR xFinity Chevy Camaro, Ford Mustang & Toyota Supra » Lag Switchers » Go to message	8/24/2012 6:20 p.m.
+Paul Nicholas Cooper wrote:
+John Hammer wrote:
+well, with the weather cheat, the tire cheat, and the other cheats.... lag switching seems kind of old school. i've got a replay that shows a dude going solo to pas the entire field... the people he pushed were road blocks, it's not obvious until you see them get hit 3 times, and listen to the throttle and brake.
+
+you can't let off or brake and maintain momentum without a cheat and people are catching on.
+
+LET ME SEE THE TAPE BUD
+
+send me your email address and i'll send you the video.
+NASCAR xFinity Chevy Camaro, Ford Mustang & Toyota Supra » Lag Switchers » Go to message	8/19/2012 3:06 p.m.
+well, with the weather cheat, the tire cheat, and the other cheats.... lag switching seems kind of old school. i've got a replay that shows a dude going solo to pas the entire field... the people he pushed were road blocks, it's not obvious until you see them get hit 3 times, and listen to the throttle and brake.
+
+you can't let off or brake and maintain momentum without a cheat and people are catching on.
+General Painting Discussion » Metallic Layers for Road & Oval cars » Go to message	7/13/2012 11:58 a.m.
+Matt,
+There are probably 5 different ways, maybe more to achieve this result... are you using paths and then applying a brush stroke to it, or using illustrator to create the paths first, import them and then brush them?
+
+Looks like you are using noise or some other filter to create the metallic?
+
+It appears that you do a good job matching the transitions to the "wire".
+
+nice work.
+Feature Suggestions » Licence system alternative » Go to message	6/2/2012 12:53 p.m.
+http://members.iracing.com/jforum/posts/list/150/1478110.page#4029821
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry »  Do you use telemetry? » Go to message	6/2/2012 12:46 p.m.
+i tend to get the setup as close as possible without it, then i'll order up my crewchief and do some runs to fix the minor issues i have left. it usually takes me all week to get a setup. Working with a team has made this easier because i am not great at starting the setup, but i can take a setup that is close and adjust it around to make it better as i understand all of the components. My problem is trying to get the springs right.
+Feature Suggestions » laying back black flag » Go to message	5/26/2012 9:35 p.m.
+this would apply entering the last corner before green, and there should also be a penalty for jumping the start, if you're outside the restart box, penalty. It happens in real racing it could easily happen here.
+Feature Suggestions » laying back black flag » Go to message	5/26/2012 9:33 p.m.
+if you gain more than x amount of distance between yourself and the car in front of you, you're black flagged stop and go.
+
+If you're the leader, you drop more than 5mph or lay off the pace car by x distance, black flagged, stop and go.
+
+There is a lot of unnecessary incidents that take place because there is no monitoring of the restarts, or penalties for laying back.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » 6:45 c race apology al rodriquez » Go to message	5/18/2012 7:15 p.m.
+Al,
+looks really bad man on the replay, honestly though i swear to you it was bad luck, i hit you early in the race when i got loose so i tried to get out of your way and just bulloxed up the whole darn thing, i'm very very sorry. I gave you my setup, it's very good i hope you accept the apology and the rest of the group, aghhhhh
+
+stupid.... sorry again to everyone in the race.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » Manners please » Go to message	5/15/2012 9:39 p.m.
+nevermind, pm sent.
+	4/26/2012 9:25 p.m.
+well, i'm glad to see there is an interest mabye if 6,000 people post something will give?
+Feature Suggestions » give active spotter pit adjustment control » Go to message	4/26/2012 9:21 p.m.
++1
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » nascar at twin montegii? » Go to message	4/22/2012 2:54 p.m.
+yes... montegi,.... no thanks, i'll pass.
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » nascar at twin montegii? » Go to message	4/22/2012 2:17 p.m.
+I looked at the schedule, and they put this on the schedule, this must be a mistake right?
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » Apology to Rob Munoz - from 12noon a race » Go to message	4/22/2012 1:05 p.m.
+For those of you from that race that didn't hear the conversation.
+
+I should've checked the replay before i took the word of a fellow racer that he had stopped on the track. Rob's explanation was good, he wasn't stopped.
+
+So I should take my own advice and just shut up until I watch the replay...
+
+edit... and i made some comments in a previous race also after he left, two unrelated incidents but both require apology..
+
+Sorry Rob.
+Feature Suggestions » Painting Rims » Go to message	2/26/2012 7:54 p.m.
+yeah, this would be cool
+Feature Suggestions »  irating for each class » Go to message	2/26/2012 7:54 p.m.
+i still think it's a good idea.
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » Homestead » Go to message	2/14/2012 8:54 p.m.
+i can't get below a 31.5, i've tried arb no arb springs must be something i'm missing... i've noticed the cambers are super sensitive here and on this new tire also.
+Feature Suggestions » Painting Rims » Go to message	1/23/2012 8:09 p.m.
+Steven King wrote:
+Ricardo Machuca wrote:
+bumping the ignored by staff thread.
+
+Bumping with quotes, the ignored by staff thread.
+
+
+bump... but read mine too, irating per series.
+Feature Suggestions »  irating for each class » Go to message	1/23/2012 8:07 p.m.
+come on iracing.... i will keep bumping this until it gets addressed... bring on 50 pages.
+Feature Suggestions » add/remove tape on pit stops » Go to message	1/23/2012 8:04 p.m.
+it would make the sim more realistic
+Feature Suggestions » add/remove tape on pit stops » Go to message	1/23/2012 8:03 p.m.
+too much tape - blown motor.
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » Target iRating to push for pro licence ? » Go to message	1/22/2012 7:55 p.m.
+Gary Cooksey wrote:
+Alex Warren wrote:
+Probably around a 4800+ irating to make top split.
+
+Confirm
+
+off topic, love the paint scheme, i run the 51 mellow yellow 
+
+on topic, must take a lot of time investment to get 4500 irating or a specific strategy in the sim?
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » 3-Wide at Dega » Go to message	12/23/2011 8:42 p.m.
+we ran 10 or 12 laps of the 11:45 top split race 3 wide and those were the LAST 12 laps, we've gone 4 wide but that usually doesn't work. 3 wide is fine if you know who you are racing with. I raced with the same people for 2 weeks straight and that makes a HUGE difference. Trust is a bigger deal than it gets credit for.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » Cheating » Go to message	12/22/2011 7:40 a.m.
+Rob Melone wrote:
+...However the use of Lag Switches used during a race is CHEATING!
+
+This has to be one of the most annoying and common exploitations of internet simulation. If you have experienced laggers you know what I'm talking about and they are IMPOSSIBLE to beat because they never wreck. Ooooh a wreck "lag" re-appear no damage and they don't have to "pedal"
+Feature Suggestions » add/remove tape on pit stops » Go to message	12/22/2011 7:35 a.m.
+Could you consider allowing us to add or remove tape on pit stops. this is a huge part of racing and one of the largest aspects of racing missing from our adjustments. I could make a shopping list of why this is important but you all are savvy enough to already know that.
+
+please consider.
+
+thanks.
+Feature Suggestions »  irating for each class » Go to message	12/22/2011 7:33 a.m.
+not letting it go.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » need a iowa setup » Go to message	12/16/2011 10:17 a.m.
+This is my setup. It runs .6's at the end of the run, Brodie made some changes to this and sent it back but i didn't get permission to share that version so this is mine.
+
+i've shared this in every practice and quite a few people are running. Good luck
+Showroom » Custom Spongebob for Mr. Wade » Go to message	10/21/2011 8:21 p.m.
+thats awesome
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » upside down tach display in a test » Go to message	10/17/2011 9:42 p.m.
+thanks
+NASCAR Cup Series – Chevy Camaro, Ford Mustang, & Toyota Camry » upside down tach display in a test » Go to message	10/16/2011 7:25 p.m.
+my tach is upside down when i do a test... i have my own custom paint but that has nothing to do with the tach... any thoughts?
+NASCAR xFinity Chevy Camaro, Ford Mustang & Toyota Supra » how to tighten loose off the turn » Go to message	10/2/2011 7:27 p.m.
+thats interesting, i find that messing with the left rear really affects my entry but it could be driving style
+NASCAR xFinity Chevy Camaro, Ford Mustang & Toyota Supra » how to tighten loose off the turn » Go to message	10/1/2011 5:28 p.m.
+you could also
+RR shock bump lower
+RR spring lower
+RR tire pressure lower
+Feature Suggestions »  irating for each class » Go to message	9/23/2011 8:14 p.m.
+i just don't see the wrecking scenario, that is what protesting is for anyways.
+Feature Suggestions »  irating for each class » Go to message	9/11/2011 9:10 a.m.
+it is simply disadvantageous to earn irating than throw it away by starting a new car in the same track type (oval or road) so people stick to what they know, the series becomes static and the cream rises to the top. If each series was treated as it's own, we'd race more series.... there would be a wider range of talent and more users in each series... its very simple.
+
+case in point, moving from silverado to impala b cot at the SAME TRACK.
+last week was silverado's at chicago land, gained irating, this week is impala b cot at chicagoland
+
+i do a lot of testing, a lot practice, share setups ask people to test my stuff visa-versa and it's rewarded me with a loss of over 400 irating points at the same track where i raced the silverado and gained irating.
+
+right now, my silverado irating could be 2100 or more, but instead it was just 17xx after 4 or 5 races of being "involved" with the b car... frankly that is why people don't do what i'm trying to do.
+Previous PageColin Boyd wrote:
+If irating was different for each class, then I would buy class b and class a content for road.
+
+as it is, I simply do not race other road cars as I do not want to affect my V8SC iRating...
+
+what I mean by this, is I do not want any other class/car changing my iRating whether it be up or down I am happy to know my iRating reflects V8SC only and to do that I have to ignore any other road series... I dont like this...
+
+very telling that quote is.
+Feature Suggestions » Kicking wreckers out of races? » Go to message	9/7/2011 9:15 p.m.
+i had 20 or 40 incs or something last week in a b car.... richmond, just couldn't pull it together and should've quit after the first few.... but even trying to stay out of the way didn't pan out.... sometimes you have a bad race but i won't ever do that again, geeze.
+Feature Suggestions » penalize laying back » Go to message	9/7/2011 9:12 p.m.
+Dennis Grebe wrote:
+John Hammer wrote:
+ok... the same people do it race in and race out and with 5+ people protesting, tell me how that works. the automated system knows when you are too far back because it NOTIFIES YOU, so it should be able to just as easily PENALIZE you.
+and how do you know that the driver behind was laying back? how do you know it wasn't the guys in front accelerating earlier than expected?
+
+Protest it or shut up and deal with it.
+
+thats pretty rude......
+
+it's a computer simulation, it can do math beyond comprehension and there is no logical reason provided on this post so far describing why the servers couldn't figure that out.
+
+every scenario can be accounted for, it's mathematical. to your specific comment, you build in a buffer on the program knowing that x car can accelerate at x speed and for every x feet is goes you can account for how far back the last car in line should be. if you are x far back you're too far back to be an issue based on speed and distance...
+
+if laying back isn't illegal then why would we protest it? complaining by protest regarding a rule that isn't being broken is more pointless than making a legitimate suggestion in the "suggestions" forum don't you think?
+Feature Suggestions »  irating for each class » Go to message	9/7/2011 9:01 p.m.
+Luis Babboni wrote:
+Andrew,
+
+1) Separate iRaitng do not means separate Safety Ratings.
+
+
+if irating is all about putting you in splits with people of like talent, why on earth would (you.... iracing) put somebody with a 2000 irating in silverado's with 2000 irating A impala's, it's illogical. couldn't you just determine the amount races completed or race laps completed in a given vehicle and instead of lumping them all together?
+
+might as well take my ever plummeting irating with me to road course and tank it there. i don't get it and nobody has really given a good reason for it to stay the way it is... other than available resources/ie labor.
+Feature Suggestions »  irating for each class » Go to message	9/4/2011 3:17 p.m.
+there seems to be a big majority on this consensus so what gives?
+Feature Suggestions » penalize laying back » Go to message	9/4/2011 3:15 p.m.
+ok... the same people do it race in and race out and with 5+ people protesting, tell me how that works. the automated system knows when you are too far back because it NOTIFIES YOU, so it should be able to just as easily PENALIZE you.
+Feature Suggestions »  irating for each class » Go to message	9/4/2011 1:05 p.m.
+if it is so good the way it is, why don't they just make 1 irating for road courses and oval? i mean whats the big deal at this point. they obviously realize there is a need to separate by series type, but why did you stop there iracing? illogical.
+Feature Suggestions » penalize laying back » Go to message	9/4/2011 12:59 p.m.
+or they could do like they say and make it more like nascar and penalize you for doing it.
+Feature Suggestions »  irating for each class » Go to message	9/3/2011 9:21 p.m.
+not giving up.
+Feature Suggestions » penalize laying back » Go to message	9/3/2011 9:19 p.m.
+laying back, and then getting a huge run is a major loop hole and i wish iracing would penalize us for doing it
+
+if the spotter can determine we are far enough back to say "catch the x car" its smart enough to penalize us if we don't.
+
+black flag us
+even better let us do it and if we get a 0-4x in the process we get ejected from the race, and put in last place.
+
+you can't fix stupid, but you can penalize us for it.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » Chicagoland Times? NTM » Go to message	8/31/2011 9:11 p.m.
+so to be fast here it appears you need to run a lot of camber and ignore the tire temps? the base michigan setup has waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay to much camber, so i changed it and voila times took a dump. something smells bad here.
+Hardware » iRacing graphic optimizations for NVIDIA users » Go to message	8/29/2011 9:39 p.m.
+any tips on a geforce 9600m gt? it's on a macbook pro boot camp running windows 7 home premium, after the latest updates, including a nvidia update and the simultaneous iracing update i get memory bleeds i think with the q just randomly pegging into the red... any suggestions... argggg.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » Bristol, to Coilbind or Not to Coilbind... » Go to message	8/18/2011 7:43 p.m.
+i had a coilbind but even the high bump and crazy swaybar made it really twitchy, no matter what i did with the cambers and toe.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » Apology to the Garr Loney » Go to message	8/6/2011 1:42 p.m.
+well i was in the wrong for hitting him, last lap or not.... and it's a pile-on because i pushed up earlier and got his fender
+
+we had 2 different lines and i just wasn't patient
+
+i hope he sees this, i sent him a message to. Thanks James, hope to see you around.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » Apology to the Garr Loney » Go to message	8/6/2011 1:35 p.m.
+Sorry man, seriously it was a coincidence i got you twice... i don't know how but i know it's happened to me to. the first time it pushed and the second time i was trying to stay low but apparently your line was to come down.
+
+my apologies, it's on me to get by you clean.
+Physics Modeling Discussion » Tank slapping / Snapping back in opposite direction. » Go to message	8/6/2011 11:36 a.m.
+tank slapping has a lot to do with camber, you snap loose because of how the tire contact patch and the sidewalls are working to keep grip, camber plays a much bigger role than people give it credit for.
+Feature Suggestions »  irating for each class » Go to message	8/2/2011 9:12 p.m.
+what ryan said is a good idea, similar to what i was thinking. i'm just asking not to take a big punch in my irating in the c series when i go and race in the a car... i mean why should i lose all my "experience" and "acquired skill" (isn't that what irating is???) by jumping into an a car.... i'm fine with starting from scratch in the b or a car.... if you can drive you can get through the lower splits and it can be fun and safe and teach people stuff but not if i'm' going to hand them huge irating if i do get punted and then trash my c series hard work...
+
+it discourages trying other series honestly.
+Feature Suggestions »  irating for each class » Go to message	8/2/2011 9:09 p.m.
+squeaky wheel right? can someone from iracing just make a comment....
+Feature Suggestions »  irating for each class » Go to message	7/28/2011 7:46 p.m.
+anybody from iracing watch this
+Physics Modeling Discussion » Chattering in the steering wheel? » Go to message	7/28/2011 7:43 p.m.
+yeah i agree that tire chatter really sucks, especially if you jack up the feedback )mine is almost all the way up. something can't be right
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » im a dumb ass » Go to message	7/21/2011 9:14 p.m.
+a lot of people don't like the way you drive robert but it is hard to question your integrity based on what we see here... i've raced a loooooooooot with you and agree that you are aggressive, but as long as i know that, i can drive appropriately. not a big fan of your setups like the other guys, way too tight for me but i respect the fact that you provide them. i'd do the same, but by the time it matters the week is over, lol.
+
+good form.
+Feature Suggestions »  irating for each class » Go to message	7/21/2011 9:09 p.m.
+bump because it's not fair to get punished in one series for sucking in another.... this doesn't happen in real racing, you won't lose points in one series because of what you do in another, so if this simulation is so close to real world why don't that fix the point system to at least separate the series.
+
+legends cup drivers make it into the hall of fame, but they'd probably be horrible in a sprint cup series car.... get the idea?
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » Atl set. i think you'll like it. » Go to message	7/18/2011 7:00 p.m.
+nevermind not that great....
+General Painting Discussion » nationwide cot B - city chevy days of thunder? » Go to message	7/14/2011 9:33 p.m.
+if anybody has this, i'd love to use it or have one made... i'm currently running the mellow yellow in trucks but for the cot i'd love to get a city chevy days of thunder...
+
+let me know if you interested would appreciate it.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » Bristol setup for Pocono haters. » Go to message	6/19/2011 10:57 a.m.
+Christian Cherniss wrote:
+Why bother the glitchers and exploiters are so common it's awaste of time.
+
+well that is going to happen you have a computer involved... you can never fix it.... somebody will spend months finding the glitches and loop holes then they win... alot.
+
+
+
++1
+iracing is a racket for the people getting setups built for them by teams and essentially beating the simulation, the way to fix that is to change the conditions and randomly change the tire model just like nascar does.
+
+another suggestion, have irating for each class and pick a class for your irating to count in and only 1, just like nascar.
+
+it's unrealistic to change the conditions in a race because that requires a random modifier to simulate rubber buildup or a cooler track, etc. but at least they could start with affecting the conditions daily.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » suggestion? » Go to message	5/15/2011 9:36 p.m.
+i hope the new tire model fixes the built in or "programmed" line. something is inherently wrong about 1 line always being the fastest, the big issue i see is that no saved setup should feel the same every single time you run at the track. put in a new variable everyday that changes the track somehow.
+
+i wish they'd focus on making what they have better instead of trying be like autodesk and microsoft where they do a little of everything but nothing superb....
+
+it appears to be going down the get every track for every series and every car instead of building the highest quality single series.
+
+this is super fun, just making some observations.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » Unsafe Pit Entry? » Go to message	4/2/2011 4:35 p.m.
+that was awesome and it was worth the 30 seconds.... mad skills.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » is it me or is this really that bad setup » Go to message	4/2/2011 4:27 p.m.
+this is my first truck week so it's all new to me, but running 33 flat, touch under if push probably... but haven't gotten to 32's yet. maybe next season after this season of setups i'll be better.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » is it me or is this really that bad setup » Go to message	4/2/2011 3:40 p.m.
+i watched your replay, and i can see that its doing what i want it to do by being very dog tracked. I don't like tight setups because they chew up tires over the long fuel run. I'm trying to make a setup that doesn't chew up tires and will last an entire fuel run and i think this is closer.
+
+I think the small sway bar is causing the instability would you agree? thanks again. I like the roll over because as you can see in the replay it really sets the truck up for the middle of the corner and helps with coming off, versus the tight setups which are great for short runs but suffer major fall over the long run.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » is it me or is this really that bad setup » Go to message	4/2/2011 10:37 a.m.
+thanks got it!
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » is it me or is this really that bad setup » Go to message	4/2/2011 10:33 a.m.
+how do i open the replay? thanks again.... rookie i am, lol
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » is it me or is this really that bad setup » Go to message	4/2/2011 10:21 a.m.
+thanks patrick, 32.6 is 1 second faster than i can run it... it doesn't seem as loose to me in the center which must mean i'm driving in to deep? it is wicked unstable though and i've also realized that the side to side heights is a problem... i've got it closer now, try this...
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » is it me or is this really that bad setup » Go to message	4/2/2011 4:57 a.m.
+well... thats the real problem.
+NASCAR Gander Outdoors - Chevrolet Silverado, Toyota Tundra & Ford F150 » is it me or is this really that bad setup » Go to message	4/1/2011 7:39 p.m.
+please try this.... i think it's close but it's loose off appreciate any criticism and help, laughs whatever...
